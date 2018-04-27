@@ -2,7 +2,7 @@
 	"name" : "shangyou/shangyou-laravel-sdk",
 	"description" : "shang you sdk",
 	"type" : "library",
-	"license" : "0.1",
+	"license" : "1.0",
 	"authors" : [{
 			"name" : "Ring",
 			"email" : "463188135@qq.com"

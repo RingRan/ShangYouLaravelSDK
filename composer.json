@@ -11,5 +11,10 @@
 	"minimum-stability" : "dev",
 	"keywords" : [
 		"laravel sdk"
-	]
+	],
+	"autoload": {
+        "psr-4": {
+            "ShangYou\\": "src/",
+        }
+    }
 }

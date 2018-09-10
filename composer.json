@@ -8,7 +8,7 @@
 			"email" : "463188135@qq.com"
 		}
 	],
-	"minimum-stability" : "dev",
+	"minimum-stability" : "stable",
 	"keywords" : [
 		"laravel sdk"
 	],

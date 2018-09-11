@@ -8,7 +8,10 @@
 			"email" : "463188135@qq.com"
 		}
 	],
-	"minimum-stability" : "stable",
+	"require" : {
+        "monolog/monolog": "1.0.*"
+	},
+	"minimum-stability" : "dev",
 	"keywords" : [
 		"laravel sdk"
 	],
